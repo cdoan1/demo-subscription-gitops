@@ -14,4 +14,3 @@ spec:
     placementRef:
       name: nginx-placement
       kind: PlacementRule
-
